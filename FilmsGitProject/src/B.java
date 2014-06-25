@@ -1,3 +1,3 @@
 public class B {
-	int field;
+	int field2;
 }
