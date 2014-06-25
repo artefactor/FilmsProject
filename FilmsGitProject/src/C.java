@@ -4,7 +4,6 @@ public class C {
 	int field4; // local commit after bracnh commit
 	String   newFieldInMaster;
 	String   newFieldInBranch;
-
 	String newChanges;
 }
 
