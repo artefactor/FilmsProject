@@ -5,5 +5,6 @@ public class C {
 	String   newFieldInMaster;
 	String   newFieldInBranch;
 
+	String newChanges;
 }
 
