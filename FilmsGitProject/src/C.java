@@ -1,3 +1,3 @@
-public class Ñ {
-	int field2;
+public class C {
+	int field3; // local
 }
